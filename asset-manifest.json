@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/shopping-cart-app/static/css/main.21abf145.chunk.css",
-    "main.js": "/shopping-cart-app/static/js/main.8ec0ecae.chunk.js",
-    "main.js.map": "/shopping-cart-app/static/js/main.8ec0ecae.chunk.js.map",
-    "runtime~main.js": "/shopping-cart-app/static/js/runtime~main.92eefe57.js",
-    "runtime~main.js.map": "/shopping-cart-app/static/js/runtime~main.92eefe57.js.map",
-    "static/js/2.53df4764.chunk.js": "/shopping-cart-app/static/js/2.53df4764.chunk.js",
-    "static/js/2.53df4764.chunk.js.map": "/shopping-cart-app/static/js/2.53df4764.chunk.js.map",
-    "index.html": "/shopping-cart-app/index.html",
-    "precache-manifest.6e28097616d7621ff354d558de15d149.js": "/shopping-cart-app/precache-manifest.6e28097616d7621ff354d558de15d149.js",
-    "service-worker.js": "/shopping-cart-app/service-worker.js",
-    "static/css/main.21abf145.chunk.css.map": "/shopping-cart-app/static/css/main.21abf145.chunk.css.map",
-    "static/media/image3.png": "/shopping-cart-app/static/media/image3.1b51c244.png"
+    "main.css": "/Shopping-Cart-App/static/css/main.21abf145.chunk.css",
+    "main.js": "/Shopping-Cart-App/static/js/main.8ec0ecae.chunk.js",
+    "main.js.map": "/Shopping-Cart-App/static/js/main.8ec0ecae.chunk.js.map",
+    "runtime~main.js": "/Shopping-Cart-App/static/js/runtime~main.4a534432.js",
+    "runtime~main.js.map": "/Shopping-Cart-App/static/js/runtime~main.4a534432.js.map",
+    "static/js/2.53df4764.chunk.js": "/Shopping-Cart-App/static/js/2.53df4764.chunk.js",
+    "static/js/2.53df4764.chunk.js.map": "/Shopping-Cart-App/static/js/2.53df4764.chunk.js.map",
+    "index.html": "/Shopping-Cart-App/index.html",
+    "precache-manifest.55bf95d4deaa4bcb6919469be6595037.js": "/Shopping-Cart-App/precache-manifest.55bf95d4deaa4bcb6919469be6595037.js",
+    "service-worker.js": "/Shopping-Cart-App/service-worker.js",
+    "static/css/main.21abf145.chunk.css.map": "/Shopping-Cart-App/static/css/main.21abf145.chunk.css.map",
+    "static/media/image3.png": "/Shopping-Cart-App/static/media/image3.1b51c244.png"
   }
 }

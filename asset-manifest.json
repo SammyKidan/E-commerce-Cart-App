@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Shopping-Cart-App/static/css/main.21abf145.chunk.css",
+    "main.css": "/Shopping-Cart-App/static/css/main.c9b27aba.chunk.css",
     "main.js": "/Shopping-Cart-App/static/js/main.8ec0ecae.chunk.js",
     "main.js.map": "/Shopping-Cart-App/static/js/main.8ec0ecae.chunk.js.map",
     "runtime~main.js": "/Shopping-Cart-App/static/js/runtime~main.4a534432.js",
@@ -8,9 +8,9 @@
     "static/js/2.53df4764.chunk.js": "/Shopping-Cart-App/static/js/2.53df4764.chunk.js",
     "static/js/2.53df4764.chunk.js.map": "/Shopping-Cart-App/static/js/2.53df4764.chunk.js.map",
     "index.html": "/Shopping-Cart-App/index.html",
-    "precache-manifest.55bf95d4deaa4bcb6919469be6595037.js": "/Shopping-Cart-App/precache-manifest.55bf95d4deaa4bcb6919469be6595037.js",
+    "precache-manifest.2d8f80fe4ced3c46ca7f2880a0181f3f.js": "/Shopping-Cart-App/precache-manifest.2d8f80fe4ced3c46ca7f2880a0181f3f.js",
     "service-worker.js": "/Shopping-Cart-App/service-worker.js",
-    "static/css/main.21abf145.chunk.css.map": "/Shopping-Cart-App/static/css/main.21abf145.chunk.css.map",
+    "static/css/main.c9b27aba.chunk.css.map": "/Shopping-Cart-App/static/css/main.c9b27aba.chunk.css.map",
     "static/media/image3.png": "/Shopping-Cart-App/static/media/image3.1b51c244.png"
   }
 }

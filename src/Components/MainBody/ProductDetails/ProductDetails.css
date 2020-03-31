@@ -160,8 +160,7 @@ form {
   outline: none;
   padding: 0;
   margin-left: 10px;
-  height: 0;
-  width: 0;
+background: #1b1b1b;
   border: 0;
   font-size: 14px;
   font-style: thin;
@@ -170,7 +169,6 @@ form {
 
 .update {
   text-decoration: underline;
-  font-family: 20px;
 }
 
 .update:hover {

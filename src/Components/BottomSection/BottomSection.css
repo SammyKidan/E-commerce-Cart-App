@@ -1,0 +1,194 @@
+.box {
+  color: white;
+  font-size: 18px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 212px;
+  width: 40%;
+}
+
+/* Comment Section */
+
+#commentSection p {
+  font-family: sans-serif;
+  font-weight: thin;
+  font-size: 16px;
+  line-height: 100%;
+}
+
+#commentField {
+  width: 418px;
+  height: 188px;
+  border-radius: 6px;
+  border: 0;
+}
+
+#commentField textarea {
+  width: 100%;
+  height: 100%;
+  resize: none;
+  color: white;
+  background: black;
+  font-size: 16px;
+  line-height: 100%;
+  border: 0;
+  padding: 10px;
+  outline: none;
+}
+
+
+/* Delivery Info Section */
+
+#deliveryInfo {
+  width: 364px;
+  height: 66px;
+  font-size: 16px;
+  font-weight: 300;
+  margin-left: -20px;
+}
+
+#deliveryInfo_Title {
+  color: #ffffff;
+}
+
+#deliveryInfo_Text {
+  line-height: 136%;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+/* Prices Summary*/
+#prices {
+  width: 295px;
+  height: 206px;
+  font-size: 16px;
+  text-align: center;
+}
+
+table {
+  width: 300px;
+  font-size: 16px;
+}
+
+tr {
+  display: flex;
+  flex-direction: row;
+  line-height: 30px;
+  justify-content: space-between;
+}
+
+#total {
+  background-color: black;
+  width: 100%;
+  margin-left: -9px;
+  padding: 1px 10px;
+  border-radius: 6px;
+}
+/* Checkout Button */
+#checkoutSection {
+  margin-top: 60px;
+  margin-bottom: 100px;
+}
+
+#checkoutSection span {
+  font-size: 14px;
+  text-decoration-line: underline;
+  line-height: 100%;
+}
+
+#checkoutBtn, #submittedBtn {
+  background: #ae0000;
+  border-radius: 6px;
+  font-size: 18px;
+  font-weight: 700;
+  width: 152px;
+  height: 62px;
+  border: 0;
+  color: white;
+  outline: none;
+}
+
+#checkoutBtn:hover {
+  border: 1px white solid;
+}
+
+
+
+#submittedBtn {
+background-color: green;
+border: 1px white solid;
+-webkit-animation: shake-top 0.8s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+animation: shake-top 0.8s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+}
+
+
+@-webkit-keyframes shake-top {
+  0%,
+  100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+    -webkit-transform-origin: 50% 0;
+            transform-origin: 50% 0;
+  }
+  10% {
+    -webkit-transform: rotate(2deg);
+            transform: rotate(2deg);
+  }
+  20%,
+  40%,
+  60% {
+    -webkit-transform: rotate(-4deg);
+            transform: rotate(-4deg);
+  }
+  30%,
+  50%,
+  70% {
+    -webkit-transform: rotate(4deg);
+            transform: rotate(4deg);
+  }
+  80% {
+    -webkit-transform: rotate(-2deg);
+            transform: rotate(-2deg);
+  }
+  90% {
+    -webkit-transform: rotate(2deg);
+            transform: rotate(2deg);
+  }
+}
+@keyframes submittedBtn {
+  0%,
+  100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+    -webkit-transform-origin: 50% 0;
+            transform-origin: 50% 0;
+  }
+  10% {
+    -webkit-transform: rotate(2deg);
+            transform: rotate(2deg);
+  }
+  20%,
+  40%,
+  60% {
+    -webkit-transform: rotate(-4deg);
+            transform: rotate(-4deg);
+  }
+  30%,
+  50%,
+  70% {
+    -webkit-transform: rotate(4deg);
+            transform: rotate(4deg);
+  }
+  80% {
+    -webkit-transform: rotate(-2deg);
+            transform: rotate(-2deg);
+  }
+  90% {
+    -webkit-transform: rotate(2deg);
+            transform: rotate(2deg);
+  }
+}
+
+
+

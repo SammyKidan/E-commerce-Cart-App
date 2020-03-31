@@ -1,0 +1,277 @@
+#productDetails {
+  height: 442px;
+  width: 100%;
+  margin: 100px auto 100px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-bottom: 72px;
+
+}
+
+#productListContainer {
+  top: 0;
+  width: 1348px;
+  height: 46px;
+  background: #0b0b0b;
+  opacity: 0.9;
+  border-radius: 6px;
+  margin: 0 auto 20px auto;
+}
+
+#productListHeadings {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 15px 128px;
+  font-size: 16px;
+  padding: 0;
+}
+
+#productListHeadings li {
+  font-size: 16px;
+}
+
+#removeHeading {
+  position: relative;
+  left: 80px;
+}
+
+#productList {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+  height: 402px;
+
+}
+
+.productListItem {
+  height: 110px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 20px;
+  margin: 0 auto;
+  margin-bottom: 32px;
+  border-radius: 6px;
+  font-size:16px;
+}
+
+.productListEditItem {
+  background-color: black;
+  height: 110px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 20px;
+  margin: 0 auto;
+  margin-bottom: 32px;
+  border-radius: 6px;
+  font-size:16px;
+}
+
+.productListRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  width: 90%;
+  margin-left: -30px;
+}
+
+.productInfo {
+  width: 650px;
+  margin-right: 120px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 20px;
+}
+
+.productInfo p {
+  position: relative;
+  right:18px;
+}
+
+.imgID {
+  position: relative;
+  width: 385px;
+  right: 20px;
+
+}
+
+.imgID p {
+  margin: 9px;
+}
+
+.img {
+  border-radius: 3.88%;
+  width:100px;
+  height: 100px;
+
+}
+
+#productName {
+  font-size: 20px;
+}
+.id {
+  margin-top: 9px;
+  color: rgba(255, 255, 255, 0.6);
+  letter-spacing: 1.2px;
+  font-weight: 200;
+}
+
+form {
+  position: relative;
+  right:10px;
+  
+}
+.quantity,
+.quantityReadOnly {
+  height: 46px;
+  width: 46px;
+  border-radius: 6px;
+  font-size: 20px;
+  padding: 0px;
+  outline: none;
+  border: 0;
+  text-align: center;
+  color: white;
+}
+
+.quantity {
+  background: linear-gradient(0deg, #1b1b1b, #1b1b1b);
+}
+
+.quantityReadOnly {
+  background-color: black;
+}
+
+
+
+.update,
+.save {
+  color: white;
+  outline: none;
+  padding: 0;
+  margin-left: 10px;
+  height: 0;
+  width: 0;
+  border: 0;
+  font-size: 14px;
+  font-style: thin;
+  line-height: 100%;
+}
+
+.update {
+  text-decoration: underline;
+  font-family: 20px;
+}
+
+.update:hover {
+  color: lightgreen;
+  -webkit-animation: shake-left 0.7s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+  animation: shake-left 0.7s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+}
+
+@-webkit-keyframes shake-left {
+  0%,
+  100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+    -webkit-transform-origin: 0 50%;
+            transform-origin: 0 50%;
+  }
+  10% {
+    -webkit-transform: rotate(2deg);
+            transform: rotate(2deg);
+  }
+  20%,
+  40%,
+  60% {
+    -webkit-transform: rotate(-4deg);
+            transform: rotate(-4deg);
+  }
+  30%,
+  50%,
+  70% {
+    -webkit-transform: rotate(4deg);
+            transform: rotate(4deg);
+  }
+  80% {
+    -webkit-transform: rotate(-2deg);
+            transform: rotate(-2deg);
+  }
+  90% {
+    -webkit-transform: rotate(2deg);
+            transform: rotate(2deg);
+  }
+}
+@keyframes shake-left {
+  0%,
+  100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+    -webkit-transform-origin: 0 50%;
+            transform-origin: 0 50%;
+  }
+  10% {
+    -webkit-transform: rotate(2deg);
+            transform: rotate(2deg);
+  }
+  20%,
+  40%,
+  60% {
+    -webkit-transform: rotate(-4deg);
+            transform: rotate(-4deg);
+  }
+  30%,
+  50%,
+  70% {
+    -webkit-transform: rotate(4deg);
+            transform: rotate(4deg);
+  }
+  80% {
+    -webkit-transform: rotate(-2deg);
+            transform: rotate(-2deg);
+  }
+  90% {
+    -webkit-transform: rotate(2deg);
+            transform: rotate(2deg);
+  }
+}
+
+.save h4 {
+  width: 3em;
+  height: 1em;
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 4px;
+  background-color: lightgrey;
+  color: black;
+  padding: 5px;
+  text-decoration: none;
+}
+
+/* This Removes input spinner arrows*/
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.removeBtn {
+  border: 0;
+  height: 21px;
+  width: 21px;
+  padding: 5px;
+  position: relative;
+  left: 118px;
+}
+
+

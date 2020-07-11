@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Shopping-Cart-App/static/css/main.c9b27aba.chunk.css",
-    "main.js": "/Shopping-Cart-App/static/js/main.8ec0ecae.chunk.js",
-    "main.js.map": "/Shopping-Cart-App/static/js/main.8ec0ecae.chunk.js.map",
-    "runtime~main.js": "/Shopping-Cart-App/static/js/runtime~main.4a534432.js",
-    "runtime~main.js.map": "/Shopping-Cart-App/static/js/runtime~main.4a534432.js.map",
-    "static/js/2.53df4764.chunk.js": "/Shopping-Cart-App/static/js/2.53df4764.chunk.js",
-    "static/js/2.53df4764.chunk.js.map": "/Shopping-Cart-App/static/js/2.53df4764.chunk.js.map",
-    "index.html": "/Shopping-Cart-App/index.html",
-    "precache-manifest.2d8f80fe4ced3c46ca7f2880a0181f3f.js": "/Shopping-Cart-App/precache-manifest.2d8f80fe4ced3c46ca7f2880a0181f3f.js",
-    "service-worker.js": "/Shopping-Cart-App/service-worker.js",
-    "static/css/main.c9b27aba.chunk.css.map": "/Shopping-Cart-App/static/css/main.c9b27aba.chunk.css.map",
-    "static/media/image3.png": "/Shopping-Cart-App/static/media/image3.1b51c244.png"
+    "main.css": "/SammyKidan/E-commerce-Cart-App.git/static/css/main.c9b27aba.chunk.css",
+    "main.js": "/SammyKidan/E-commerce-Cart-App.git/static/js/main.b5e5f55d.chunk.js",
+    "main.js.map": "/SammyKidan/E-commerce-Cart-App.git/static/js/main.b5e5f55d.chunk.js.map",
+    "runtime~main.js": "/SammyKidan/E-commerce-Cart-App.git/static/js/runtime~main.b029a89a.js",
+    "runtime~main.js.map": "/SammyKidan/E-commerce-Cart-App.git/static/js/runtime~main.b029a89a.js.map",
+    "static/js/2.53df4764.chunk.js": "/SammyKidan/E-commerce-Cart-App.git/static/js/2.53df4764.chunk.js",
+    "static/js/2.53df4764.chunk.js.map": "/SammyKidan/E-commerce-Cart-App.git/static/js/2.53df4764.chunk.js.map",
+    "index.html": "/SammyKidan/E-commerce-Cart-App.git/index.html",
+    "precache-manifest.73ebf7e9079941c27929d88d16988628.js": "/SammyKidan/E-commerce-Cart-App.git/precache-manifest.73ebf7e9079941c27929d88d16988628.js",
+    "service-worker.js": "/SammyKidan/E-commerce-Cart-App.git/service-worker.js",
+    "static/css/main.c9b27aba.chunk.css.map": "/SammyKidan/E-commerce-Cart-App.git/static/css/main.c9b27aba.chunk.css.map",
+    "static/media/image3.png": "/SammyKidan/E-commerce-Cart-App.git/static/media/image3.1b51c244.png"
   }
 }

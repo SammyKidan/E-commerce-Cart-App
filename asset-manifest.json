@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SammyKidan/E-commerce-Cart-App/static/css/main.c9b27aba.chunk.css",
-    "main.js": "/SammyKidan/E-commerce-Cart-App/static/js/main.b5e5f55d.chunk.js",
-    "main.js.map": "/SammyKidan/E-commerce-Cart-App/static/js/main.b5e5f55d.chunk.js.map",
-    "runtime~main.js": "/SammyKidan/E-commerce-Cart-App/static/js/runtime~main.47680a9b.js",
-    "runtime~main.js.map": "/SammyKidan/E-commerce-Cart-App/static/js/runtime~main.47680a9b.js.map",
-    "static/js/2.53df4764.chunk.js": "/SammyKidan/E-commerce-Cart-App/static/js/2.53df4764.chunk.js",
-    "static/js/2.53df4764.chunk.js.map": "/SammyKidan/E-commerce-Cart-App/static/js/2.53df4764.chunk.js.map",
-    "index.html": "/SammyKidan/E-commerce-Cart-App/index.html",
-    "precache-manifest.50369c9911f87fd4e12b9e2d50c9d939.js": "/SammyKidan/E-commerce-Cart-App/precache-manifest.50369c9911f87fd4e12b9e2d50c9d939.js",
-    "service-worker.js": "/SammyKidan/E-commerce-Cart-App/service-worker.js",
-    "static/css/main.c9b27aba.chunk.css.map": "/SammyKidan/E-commerce-Cart-App/static/css/main.c9b27aba.chunk.css.map",
-    "static/media/image3.png": "/SammyKidan/E-commerce-Cart-App/static/media/image3.1b51c244.png"
+    "main.css": "/E-commerce-Cart-App/static/css/main.c9b27aba.chunk.css",
+    "main.js": "/E-commerce-Cart-App/static/js/main.b5e5f55d.chunk.js",
+    "main.js.map": "/E-commerce-Cart-App/static/js/main.b5e5f55d.chunk.js.map",
+    "runtime~main.js": "/E-commerce-Cart-App/static/js/runtime~main.05e6095d.js",
+    "runtime~main.js.map": "/E-commerce-Cart-App/static/js/runtime~main.05e6095d.js.map",
+    "static/js/2.53df4764.chunk.js": "/E-commerce-Cart-App/static/js/2.53df4764.chunk.js",
+    "static/js/2.53df4764.chunk.js.map": "/E-commerce-Cart-App/static/js/2.53df4764.chunk.js.map",
+    "index.html": "/E-commerce-Cart-App/index.html",
+    "precache-manifest.603d51d48f976c23c1721f28f694a7da.js": "/E-commerce-Cart-App/precache-manifest.603d51d48f976c23c1721f28f694a7da.js",
+    "service-worker.js": "/E-commerce-Cart-App/service-worker.js",
+    "static/css/main.c9b27aba.chunk.css.map": "/E-commerce-Cart-App/static/css/main.c9b27aba.chunk.css.map",
+    "static/media/image3.png": "/E-commerce-Cart-App/static/media/image3.1b51c244.png"
   }
 }
